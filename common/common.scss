@@ -26,6 +26,7 @@
 
     // Blurred background image
     .background-thumbnail {
+      display: none;
       z-index: 0;
       position: absolute;
       object-fit: cover;
